@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ce0b308350b841e99f5bc08a41edf52a/artifacts
+end_time: 1757944769434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce0b308350b841e99f5bc08a41edf52a
+run_name: redolent-eel-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757944764243
+status: 4
+tags: []
+user_id: virtu

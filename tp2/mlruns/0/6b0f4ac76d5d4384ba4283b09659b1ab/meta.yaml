@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6b0f4ac76d5d4384ba4283b09659b1ab/artifacts
+end_time: 1757944801667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b0f4ac76d5d4384ba4283b09659b1ab
+run_name: funny-fish-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757944791771
+status: 3
+tags: []
+user_id: virtu

@@ -1,0 +1,10 @@
+digest: 256f6985
+name: dataset
+profile: '{"features_shape": [112, 4], "features_size": 448, "features_nbytes": 3584,
+  "targets_shape": [112], "targets_size": 112, "targets_nbytes": 448}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 4]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int32\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "virtu", "mlflow.source.name": "C:\\Users\\virtu\\Documents\\GitHub\\mini-projet-mlops-2\\train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "f3f85b41d1c99076f6ff884b8231a5e3a183226d"}}'
+source_type: code

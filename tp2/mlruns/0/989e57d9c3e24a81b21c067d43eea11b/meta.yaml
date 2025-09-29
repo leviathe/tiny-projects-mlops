@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/989e57d9c3e24a81b21c067d43eea11b/artifacts
+end_time: 1757944880416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 989e57d9c3e24a81b21c067d43eea11b
+run_name: traveling-hawk-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757944876167
+status: 3
+tags: []
+user_id: virtu

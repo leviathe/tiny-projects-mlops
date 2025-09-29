@@ -1,0 +1,6 @@
+mlflow
+fastapi
+requests
+scikit-learn
+uvicorn
+pydantic

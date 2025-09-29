@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/408f0c0f0e32439d99ed91d5aa5cc6c3/artifacts
+end_time: 1757944805672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 408f0c0f0e32439d99ed91d5aa5cc6c3
+run_name: rogue-grub-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757944801762
+status: 3
+tags: []
+user_id: virtu
